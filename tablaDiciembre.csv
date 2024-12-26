@@ -1,0 +1,259 @@
+id,job_dt,start_dt,end_dt,user_id,break,ubicacion
+,2024-12-01,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-01,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-01,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (Zonal 21:30 a 01:00- BRT 01:00 a 05:00)
+,2024-12-01,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-01,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-01,00:00,00:00,Andres David Ortiz Munca,0,DESCANSO
+,2024-12-01,06:00,14:00,Jean Marco Avila Sanchez,0,Transmilenio (BRT 06:00 a 10:00- Zonal 10:00 a 14:00)
+,2024-12-02,12:00,21:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (Zonal 12:00 a 16:00 - BRT 16:00 a 21:00)
+,2024-12-02,08:00,18:00,Fabian Aranda Gongora,60,RB - Torre Colpatria
+,2024-12-02,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 21:30 a 01:00 - Zonal 01:00 a 05:00)
+,2024-12-02,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-02,08:00,18:00,Yoiner David Julio Martinez,60,RB - Torre Colpatria
+,2024-12-02,08:00,18:00,Andres David Ortiz Munca,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 18:00)
+,2024-12-02,04:00,12:00,Jean Marco Avila Sanchez,0,Transmilenio (Zonal 04:00 a 10:00 - BRT 10:00 a 12:00 )
+,2024-12-03,12:00,21:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 12:00 a 16:00 - Zonal 16:00 a 21:00)
+,2024-12-03,08:00,18:00,Fabian Aranda Gongora,60,LG CNS
+,2024-12-03,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (Zonal 21:30 a 02:00 - BRT 02:00 a 05:00)
+,2024-12-03,08:00,18:00,Nestor Enrique Onrisa Florez,60,LG CNS
+,2024-12-03,08:00,18:00,Yoiner David Julio Martinez,60,RB - Torre Colpatria
+,2024-12-03,08:00,17:00,Andres David Ortiz Munca,60,Transmilenio (Zonal 08:00 a 12:00 - BRT 13:00 a 17:00)
+,2024-12-03,04:00,12:00,Jean Marco Avila Sanchez,0,Transmilenio (BRT 04:00 a 08:00 - Zonal 08:00 a 12:00)
+,2024-12-04,12:00,21:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (Zonal 12:00 a 16:00 - BRT 16:00 a 21:00)
+,2024-12-04,08:00,18:00,Fabian Aranda Gongora,60,RB - Torre Colpatria
+,2024-12-04,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 21:30 a 02:00 - Zonal 02:00 a 05:00)
+,2024-12-04,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-04,13:00,22:00,Yoiner David Julio Martinez,0,Transmilenio (BRT 13:00 a 18:00 - Zonal 18:00 a 22:00)
+,2024-12-04,08:00,16:00,Andres David Ortiz Munca,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 17:00)
+,2024-12-04,04:00,12:00,Jean Marco Avila Sanchez,0,Transmilenio (Zonal 04:00 a 08:00 - BRT 08:00 a 12:00)
+,2024-12-04,08:00,18:00,Johan Esteban Castano Martinez,60,RB - Torre Colpatria
+,2024-12-05,12:00,21:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 12:00 a 16:00 - Zonal 16:00 a 21:00)
+,2024-12-05,04:00,12:00,Fabian Aranda Gongora,60,Transmilenio (Zonal 04:00 a 12:00)
+,2024-12-05,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (Zonal 21:30 a 02:00 - BRT 02:00 a 05:00)
+,2024-12-05,11:00,19:00,Nestor Enrique Onrisa Florez,0,Transmilenio (Zonal 11:00 a 19:00)
+,2024-12-05,13:00,22:00,Yoiner David Julio Martinez,0,Transmilenio (BRT 13:00 a 22:00)
+,2024-12-05,08:00,16:00,Andres David Ortiz Munca,60,Transmilenio (Zonal 08:00 a 12:00 - BRT 13:00 a 17:00)
+,2024-12-05,04:00,12:00,Jean Marco Avila Sanchez,0,Transmilenio (BRT 04:00 a 12:00)
+,2024-12-05,08:00,18:00,Johan Esteban Castano Martinez,60,RB - Torre Colpatria
+,2024-12-06,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-06,04:00,12:00,Fabian Aranda Gongora,0,Transmilenio (Zonal 04:00 a 09:00 - BRT 09:00 a 12:00)
+,2024-12-06,12:00,12:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-06,23:00,07:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 23:00 a 04:00 - Zonal 04:00 a 07:00)
+,2024-12-06,14:00,23:00,Nestor Enrique Onrisa Florez,60,Transmilenio (BRT 14:00 a 18:00 - Zonal 19:00 a 23:00)
+,2024-12-06,12:00,17:00,Yoiner David Julio Martinez,0,Transmilenio (Zonal 12:00 a 17:00)
+,2024-12-06,00:00,00:00,Andres David Ortiz Munca,0,DESCANSO
+,2024-12-06,08:00,18:00,Johan Esteban Castano Martinez,60,Torre Colpatria
+,2024-12-07,22:00,06:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 22:00 a 03:00 - Zonal 03:00 a 06:00)
+,2024-12-07,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-07,00:00,00:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-07,00:00,00:00,German Eduardo Jimenez Gacha,0,DESCANSO
+,2024-12-07,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-07,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-07,07:00,14:00,Andres David Ortiz Munca,0,Transmilenio (BRT 07:00 a 11:00 - Zonal 11:00 a 14:00)
+,2024-12-07,07:00,14:00,Johan Esteban Castano Martinez,0,Transmilenio (BRT 07:00 a 11:00 - Zonal 11:00 a 14:00)
+,2024-12-08,21:30,05:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (Zonal 21:30 a 02:30 - BRT 02:30 a 05:00)
+,2024-12-08,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-08,00:00,00:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-08,00:00,00:00,German Eduardo Jimenez Gacha,0,DESCANSO
+,2024-12-08,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-08,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-08,06:00,14:00,Andres David Ortiz Munca,0,Transmilenio (BRT 06:00 a 10:00 - Zonal 10:00 a 14:00)
+,2024-12-08,00:00,00:00,Johan Esteban Castano Martinez,0,DESCANSO
+,2024-12-09,21:30,05:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 21:30 a 01:00 - Zonal 01:00 a 05:00)
+,2024-12-09,08:00,18:00,Fabian Aranda Gongora,60,Transmilenio (Zonal 08:00 a 12:00 - BRT 13:00 a 18:00)
+,2024-12-09,08:00,18:00,Jean Marco Avila Sanchez,60,RB - Torre Colpatria
+,2024-12-09,12:00,22:00,German Eduardo Jimenez Gacha,0,DIA FAMILIA
+,2024-12-09,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-09,12:00,22:00,Yoiner David Julio Martinez,60,Transmilenio (zonal 12:00 a 17:00 - BRT 18:00 a 22:00) )
+,2024-12-09,04:00,12:00,Andres David Ortiz Munca,0,Transmilenio (Zonal 04:00 a 08:00 - BRT 08:00 a 12:00)
+,2024-12-09,08:00,18:00,Johan Esteban Castano Martinez,60,RB - Torre Colpatria
+,2024-12-10,21:30,05:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-10,08:00,17:00,Fabian Aranda Gongora,60,Transmilenio (Zonal 08:00 a 12:00 - BRT 13:00 a 17:00)
+,2024-12-10,08:00,18:00,Jean Marco Avila Sanchez,60,RB - Torre Colpatria
+,2024-12-10,12:00,21:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 12:00 a 05:00 - Zonal 05:00 a 21:00)
+,2024-12-10,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-10,08:00,18:00,Yoiner David Julio Martinez,60,RB - Torre Colpatria
+,2024-12-10,04:00,12:00,Andres David Ortiz Munca,0,Transmilenio (Zonal 04:00 a 08:00 - BRT 08:00 a 12:00)
+,2024-12-10,08:00,18:00,Johan Esteban Castano Martinez,60,RB - Torre Colpatria
+,2024-12-11,21:30,05:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-11,08:00,16:00,Fabian Aranda Gongora,60,Transmilenio (Zonal 08:00 a 12:00 - Zonal 13:00 a 16:00)
+,2024-12-11,13:00,22:00,Jean Marco Avila Sanchez,0,Transmilenio (BRT 13:00 a 18:00 - Zonal 18:00 a 22:00)
+,2024-12-11,12:00,21:00,German Eduardo Jimenez Gacha,0,Transmilenio (Zonal 12:00 a 17:00 a BRT 17:00 a 21:00)
+,2024-12-11,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-11,08:00,18:00,Yoiner David Julio Martinez,60,RB - Torre Colpatria
+,2024-12-11,04:00,12:00,Andres David Ortiz Munca,0,Transmilenio (Zonal 04:00 a 08:00 - BRT 08:00 a 12:00)
+,2024-12-11,08:00,18:00,Johan Esteban Castano Martinez,60,RB - Torre Colpatria
+,2024-12-12,21:30,05:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-12,08:00,16:00,Fabian Aranda Gongora,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 16:00)
+,2024-12-12,13:00,22:00,Jean Marco Avila Sanchez,0,Transmilenio (Zonal 13:00 a 17:00 BRT 17:00 a 22:00)
+,2024-12-12,12:00,21:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 12:00 a 17:00 - Zonal 17:00 a 21:00)
+,2024-12-12,08:00,18:00,Nestor Enrique Onrisa Florez,60,Transmilenio
+,2024-12-12,08:00,16:00,Yoiner David Julio Martinez,60,Transmilenio (Zonal 08:00 a 12:00 - 13:00 a BRT 16:00)
+,2024-12-12,04:00,12:00,Andres David Ortiz Munca,0,Transmilenio (Zonal 04:00 a 08:00 - BRT 08:00 a 12:00)
+,2024-12-12,08:00,18:00,Johan Esteban Castano Martinez,60,Transmilenio
+,2024-12-13,23:00,07:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (Zonal 23:00 a 04:00 - BRT 04:00 a 07:00))
+,2024-12-13,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-13,12:00,17:00,Jean Marco Avila Sanchez,0,Transmilenio (Zonal 12:00 a 17:00)
+,2024-12-13,00:00,00:00,German Eduardo Jimenez Gacha,0,DESCANSO
+,2024-12-13,15:00,23:00,Nestor Enrique Onrisa Florez,0,Transmilenio (BRT 15:00 a 23:00)
+,2024-12-13,04:00,12:00,Yoiner David Julio Martinez,0,Transmilenio (BRT 04:00 a 08:00 - Zonal 08:00 a 12:00)
+,2024-12-13,00:00,00:00,Andres David Ortiz Munca,0,DESCANSO
+,2024-12-13,14:00,23:00,Johan Esteban Castano Martinez,0,Transmilenio (BRT 14:00 a 23:00)
+,2024-12-14,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-14,07:00,14:00,Fabian Aranda Gongora,0,Transmilenio (Zonal 07:00 a 11:00 - BRT 11:00 a 14:00)
+,2024-12-14,00:00,00:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-14,22:00,06:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 22:00 a 03:00 - Zonal 03:00 a 06:00)
+,2024-12-14,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-14,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-14,00:00,00:00,Andres David Ortiz Munca,0,DESCANSO
+,2024-12-14,00:00,00:00,Johan Esteban Castano Martinez,0,DESCANSO
+,2024-12-15,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-15,06:00,14:00,Fabian Aranda Gongora,0,Transmilenio (Zonal 06:00 a 10:00 - BRT 10:00 a 14:00)
+,2024-12-15,00:00,00:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-15,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-15,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-15,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-15,00:00,00:00,Andres David Ortiz Munca,0,DESCANSO
+,2024-12-15,00:00,00:00,Johan Esteban Castano Martinez,0,DESCANSO
+,2024-12-16,12:00,21:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 12:00 a 17:00 a Zonal 17:00 a 21:00)
+,2024-12-16,04:00,12:00,Fabian Aranda Gongora,0,Transmilenio (BRT 04:00 a 08:00 a Zonal 08:00 a 12:00))
+,2024-12-16,08:00,18:00,Jean Marco Avila Sanchez,60,RB - Torre Colpatria
+,2024-12-16,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 21:30 a 03:00 a Zonal 03:00 a 05:00)
+,2024-12-16,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-16,08:00,18:00,Yoiner David Julio Martinez,60,Transmilenio (BRT 08:00 a 12:00 a Zonal 13:00 a 18:00)
+,2024-12-16,08:00,18:00,Andres David Ortiz Munca,60,RB - Torre Colpatria
+,2024-12-16,08:00,18:00,Johan Esteban Castano Martinez,60,RB - Torre Colpatria
+,2024-12-17,12:00,21:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (Zonal 12:00 a 17:00 a BRT17:00 a 21:00)
+,2024-12-17,04:00,12:00,Fabian Aranda Gongora,0,Transmilenio (BRT 04:00 a 08:00 a Zonal 08:00 a 12:00)
+,2024-12-17,08:00,18:00,Jean Marco Avila Sanchez,60,LG CNS
+,2024-12-17,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (Zonal 21:30 a 03:00 a BRT 03:00 a 05:00)
+,2024-12-17,08:00,18:00,Nestor Enrique Onrisa Florez,60,LG CNS
+,2024-12-17,08:00,17:00,Yoiner David Julio Martinez,60,Transmilenio (Zonal 08:00 a 12:00 a BRT 13:00 a 17:00)
+,2024-12-17,08:00,18:00,Andres David Ortiz Munca,60,RB - Torre Colpatria
+,2024-12-17,08:00,16:00,Johan Esteban Castano Martinez,60,Transmilenio
+,2024-12-18,12:00,21:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT 12:00 a 17:00 a Zonal 17:00 a 21:00)
+,2024-12-18,04:00,12:00,Fabian Aranda Gongora,0,Transmilenio (BRT 04:00 a 08:00 a Zonal 08:00 a 12:00)
+,2024-12-18,08:00,18:00,Jean Marco Avila Sanchez,60,RB - Torre Colpatria
+,2024-12-18,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 21:30 a 03:00 a Zonal 03:00 a 05:00)
+,2024-12-18,08:00,18:00,Nestor Enrique Onrisa Florez,60,LG CNS
+,2024-12-18,08:00,16:00,Yoiner David Julio Martinez,60,Transmilenio (BRT 08:00 a 12:00 a Zonal 13:00 a 16:00)
+,2024-12-18,13:00,22:00,Andres David Ortiz Munca,0,Transmilenio (Zonal 13:00 a 18:00 - BRT 18:00 a 22:00)
+,2024-12-18,08:00,16:00,Johan Esteban Castano Martinez,60,Transmilenio
+,2024-12-19,12:00,21:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (Zonal 12:00 a 17:00 a BRT 17:00 a 21:00)
+,2024-12-19,04:00,12:00,Fabian Aranda Gongora,0,Transmilenio (BRT 04:00 a 08:00 a Zonal 08:00 a 12:00)
+,2024-12-19,11:00,18:00,Jean Marco Avila Sanchez,0,Transmilenio
+,2024-12-19,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (Zonal 21:30 a 03:00 a BRT 03:00 a 05:00)
+,2024-12-19,03:00,11:00,Nestor Enrique Onrisa Florez,0,Transmilenio
+,2024-12-19,08:00,16:00,Yoiner David Julio Martinez,60,Transmilenio (Zonal 08:00 a 12:00 a BRT 13:00 a 16:00)
+,2024-12-19,13:00,22:00,Andres David Ortiz Munca,0,Transmilenio (BRT 13:00 a 18:00 - BRT 18:00 a 22:00)
+,2024-12-19,08:00,16:00,Johan Esteban Castano Martinez,60,Transmilenio
+,2024-12-19,08:00,18:00,Nancy Guerrero Rodriguez,60,RB - Torre Colpatria
+,2024-12-20,15:00,23:00,Alvaro Alexander Clavijo Herrera,20,Transmilenio (BRT 15:00 a 19:00 a Zonal 19:00 a 23:00)
+,2024-12-20,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-20,05:00,12:00,Jean Marco Avila Sanchez,0,Transmilenio (BRT 05:00 a 08:00 a Zonal 08:00 a 12:00)
+,2024-12-20,23:00,07:00,German Eduardo Jimenez Gacha,20,Transmilenio (BRT 23:00 a 03:00 - Zonal 03:00 a 07:00)
+,2024-12-20,08:00,18:00,Nestor Enrique Onrisa Florez,60,Transmilenio MP / Torre Colpatria
+,2024-12-20,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-20,12:00,17:00,Andres David Ortiz Munca,0,Transmilenio (Zonal 12:00 a 17:00)
+,2024-12-20,00:00,00:00,Johan Esteban Castano Martinez,0,DESCANSO
+,2024-12-20,08:00,18:00,Nancy Guerrero Rodriguez,60,RB - Torre Colpatria
+,2024-12-21,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-21,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-21,00:00,00:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-21,00:00,00:00,German Eduardo Jimenez Gacha,0,DESCANSO
+,2024-12-21,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-21,07:00,14:00,Yoiner David Julio Martinez,0,Transmilenio (Zonal 07:00 a 14:00)
+,2024-12-21,00:00,00:00,Andres David Ortiz Munca,0,DESCANSO
+,2024-12-21,22:00,06:00,Johan Esteban Castano Martinez,20,Transmilenio (BRT 22:00 a 03:00 - Zonal 03:00 a 06:00)
+,2024-12-21,07:00,14:00,Nancy Guerrero Rodriguez,0,Transmilenio
+,2024-12-22,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-22,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-22,00:00,00:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-22,00:00,00:00,German Eduardo Jimenez Gacha,0,DESCANSO
+,2024-12-22,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-22,06:00,14:00,Yoiner David Julio Martinez,20,Transmilenio (BRT 06:00 a 11:00 - Zonal 11:00 a 14:00)
+,2024-12-22,00:00,00:00,Andres David Ortiz Munca,0,DESCANSO
+,2024-12-22,21:30,05:00,Johan Esteban Castano Martinez,0,Transmilenio (BRT 09:30 a 02:00 - Zonal 02:00 a 05:00)
+,2024-12-22,00:00,00:00,Nancy Guerrero Rodriguez,0,DESCANSO
+,2024-12-23,08:00,18:00,Alvaro Alexander Clavijo Herrera,60,Transmilenio (Zonal 08:00 a 12:00 - BRT 13:00 a 18:00)
+,2024-12-23,08:00,18:00,Fabian Aranda Gongora,60,RB - Torre Colpatria
+,2024-12-23,08:00,18:00,Jean Marco Avila Sanchez,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 18:00)
+,2024-12-23,21:30,05:00,Johan Esteban Castano Martinez,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-23,13:00,22:00,German Eduardo Jimenez Gacha,60,Transmilenio (BRT 13:00 a 18:00 - Zonal 18:00 a 22:00)
+,2024-12-23,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-23,04:00,12:00,Yoiner David Julio Martinez,20,Transmilenio (BRT 04:00 a 08:00 - Zonal 08:00 a 12:00)
+,2024-12-23,00:00,00:00,Andres David Ortiz Munca,0,VACACIONES
+,2024-12-23,08:00,18:00,Nancy Guerrero Rodriguez,60,RB - Torre Colpatria
+,2024-12-24,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-24,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-24,08:00,18:00,Jean Marco Avila Sanchez,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 18:00)
+,2024-12-24,21:30,05:00,Johan Esteban Castano Martinez,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-24,08:00,18:00,German Eduardo Jimenez Gacha,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 18:00)
+,2024-12-24,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-24,04:00,12:00,Yoiner David Julio Martinez,20,Transmilenio (BRT 04:00 a 08:00 - Zonal 08:00 a 12:00)
+,2024-12-24,00:00,00:00,Andres David Ortiz Munca,0,VACACIONES
+,2024-12-24,08:00,18:00,Nancy Guerrero Rodriguez,60,Transmilenio
+,2024-12-25,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-25,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-25,00:00,00:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-25,21:30,05:00,Johan Esteban Castano Martinez,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-25,12:00,21:00,German Eduardo Jimenez Gacha,20,Transmilenio (BRT 12:00 a 17:00 - Zonal 17:00 a 21:00)
+,2024-12-25,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-25,04:00,12:00,Yoiner David Julio Martinez,20,Transmilenio (BRT 04:00 a 08:00 - Zonal 08:00 a 12:00)
+,2024-12-25,00:00,00:00,Andres David Ortiz Munca,0,VACACIONES
+,2024-12-25,00:00,00:00,Nancy Guerrero Rodriguez,0,DESCANSO
+,2024-12-26,08:00,16:00,Alvaro Alexander Clavijo Herrera,60,Transmilenio (Zonal 08:00 a 12:00 - BRT 13:00 a 16:00)
+,2024-12-26,13:00,22:00,Fabian Aranda Gongora,20,Transmilenio (BRT 13:00 a 18:00 - Zonal 18:00 a 22:00)
+,2024-12-26,08:00,18:00,Jean Marco Avila Sanchez,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 18:00)
+,2024-12-26,21:30,05:00,Johan Esteban Castano Martinez,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-26,13:00,22:00,German Eduardo Jimenez Gacha,60,Transmilenio (BRT 13:00 a 18:00 - Zonal 19:00 a 22:00)
+,2024-12-26,08:00,18:00,Nestor Enrique Onrisa Florez,60,RB - Torre Colpatria
+,2024-12-26,04:00,12:00,Yoiner David Julio Martinez,20,Transmilenio (BRT 04:00 a 08:00 - Zonal 08:00 a 12:00)
+,2024-12-26,00:00,00:00,Andres David Ortiz Munca,0,VACACIONES
+,2024-12-26,08:00,18:00,Nancy Guerrero Rodriguez,60,RB - Torre Colpatria
+,2024-12-27,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-27,12:00,17:00,Fabian Aranda Gongora,0,Transmilenio (Zonal 12:00 a 17:00)
+,2024-12-27,00:00,00:00,Jean Marco Avila Sanchez,0,DESCANSO
+,2024-12-27,21:30,05:00,Johan Esteban Castano Martinez,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-27,00:00,00:00,German Eduardo Jimenez Gacha,0,DESCANSO
+,2024-12-27,05:00,15:00,Nestor Enrique Onrisa Florez,60,Transmilenio (Zonal 05:00 a 12:00 - BRT 13:00 a 15:00)
+,2024-12-27,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-27,00:00,00:00,Andres David Ortiz Munca,0,VACACIONES
+,2024-12-27,08:00,18:00,Nancy Guerrero Rodriguez,60,RB - Torre Colpatria
+,2024-12-28,09:00,15:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (BRT)
+,2024-12-28,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-28,05:00,10:00,Jean Marco Avila Sanchez,0,Transmilenio (Zonal)
+,2024-12-28,00:00,00:00,Johan Esteban Castano Martinez,0,DESCANSO
+,2024-12-28,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-28,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-28,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-28,00:00,00:00,Andres David Ortiz Munca,0,VACACIONES
+,2024-12-28,08:00,13:00,Nancy Guerrero Rodriguez,0,Transmilenio
+,2024-12-29,09:00,15:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (Zonal)
+,2024-12-29,00:00,00:00,Fabian Aranda Gongora,0,DESCANSO
+,2024-12-29,05:00,10:00,Jean Marco Avila Sanchez,0,Transmilenio (BRT)
+,2024-12-29,00:00,00:00,Johan Esteban Castano Martinez,0,DESCANSO
+,2024-12-29,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (BRT 21:30 a 03:00 - Zonal 03:00 a 05:00)
+,2024-12-29,00:00,00:00,Nestor Enrique Onrisa Florez,0,DESCANSO
+,2024-12-29,00:00,00:00,Yoiner David Julio Martinez,0,DESCANSO
+,2024-12-29,00:00,00:00,Andres David Ortiz Munca,0,VACACIONES
+,2024-12-29,00:00,00:00,Nancy Guerrero Rodriguez,0,DESCANSO
+,2024-12-30,00:00,00:00,Alvaro Alexander Clavijo Herrera,0,DESCANSO
+,2024-12-30,08:00,18:00,Fabian Aranda Gongora,60,RB - Torre Colpatria
+,2024-12-30,04:00,12:00,Jean Marco Avila Sanchez,20,Transmilenio (BRT 04:00 a 08:00 - Zonal 08:00 a 12:00)
+,2024-12-30,08:00,18:00,Johan Esteban Castano Martinez,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 18:00)
+,2024-12-30,21:30,05:00,German Eduardo Jimenez Gacha,0,Transmilenio (Zonal 21:30 a 03:00 - BRT 03:00 a 05:00)
+,2024-12-30,00:00,00:00,Nestor Enrique Onrisa Florez,0,VACACIONES
+,2024-12-30,08:00,18:00,Yoiner David Julio Martinez,60,RB - Torre Colpatria
+,2024-12-30,08:00,18:00,Andres David Ortiz Munca,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 18:00)
+,2024-12-30,08:00,18:00,Nancy Guerrero Rodriguez,60,RB - Torre Colpatria
+,2024-12-31,21:30,05:00,Alvaro Alexander Clavijo Herrera,0,Transmilenio (Zonal 21:30 a 03:00 - BRT 03:00 a 05:00)
+,2024-12-31,08:00,18:00,Fabian Aranda Gongora,60,RB - Torre Colpatria
+,2024-12-31,04:00,12:00,Jean Marco Avila Sanchez,20,Transmilenio (BRT 04:00 a 08:00 - Zonal 08:00 a 12:00)
+,2024-12-31,08:00,18:00,Johan Esteban Castano Martinez,60,Transmilenio (BRT 08:00 a 12:00 - Zonal 13:00 a 18:00)
+,2024-12-31,00:00,00:00,German Eduardo Jimenez Gacha,0,DESCANSO
+,2024-12-31,00:00,00:00,Nestor Enrique Onrisa Florez,0,VACACIONES
+,2024-12-31,08:00,18:00,Yoiner David Julio Martinez,60,RB - Torre Colpatria
+,2024-12-31,08:00,18:00,Andres David Ortiz Munca,60,Transmilenio (Zonal 08:00 a 12:00 - BRT 13:00 a 18:00)
+,2024-12-31,08:00,18:00,Nancy Guerrero Rodriguez,60,Transmilenio
